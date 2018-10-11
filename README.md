@@ -12,6 +12,8 @@
 - Page where you can view and re-deliver webhooks: https://github.com/settings/apps/your-app-name/advanced
 - Documentation for the Node GitHub SDK: https://octokit.github.io/rest.js/
 
+Follow along live: (URL to come)
+
 ### Workshop steps
 1. Fork the [universeworkshops/license-checker-demo](https://github.com/universeworkshops/license-checker-demo) repo to your personal account
 2. Create your Glitch app by following this link: https://glitch.com/edit/#!/remix/license-checker-start
