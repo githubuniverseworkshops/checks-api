@@ -13,7 +13,7 @@
 
 ### Workshop steps
 1. Fork the [universeworkshops/license-checker-demo](https://github.com/universeworkshops/license-checker-demo) repo to your personal account
-2. Create your Glitch app by clicking on this link [LINK TBD]
+2. Create your Glitch app by following this link: https://glitch.com/edit/#!/remix/license-checker-start
 3. Wait for Glitch to load and for it to install all the dependencies. You can see progress by clicking on "Status" in the top left corner
 4. Click the "Show Live" button at the top of the page. A new tab should open and the page should have a "Register GitHub App" button
 4. Click the "Register GitHub App" button and choose a name for your GitHub App. A GitHub app will be created for you in the background. Once it is complete you will see a new page that asks you where you want to install your new app.
