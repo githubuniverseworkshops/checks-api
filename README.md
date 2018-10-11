@@ -10,6 +10,7 @@
 - API documentation to create a check run: https://developer.github.com/v3/checks/runs/#create-a-check-run
 - API documentation for getting a single file: https://developer.github.com/v3/repos/contents/#get-contents
 - Page where you can view and re-deliver webhooks: https://github.com/settings/apps/your-app-name/advanced
+- Documentation for the Node GitHub SDK: https://octokit.github.io/rest.js/
 
 ### Workshop steps
 1. Fork the [universeworkshops/license-checker-demo](https://github.com/universeworkshops/license-checker-demo) repo to your personal account
