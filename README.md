@@ -4,7 +4,6 @@
 
 - A GitHub.com account
 - A Glitch.com account
-- Bring a ~t-shirt~ repository that you don't mind getting messy
 
 ### Useful links throughout the workshop
 - API documentation to create a check run: https://developer.github.com/v3/checks/runs/#create-a-check-run
