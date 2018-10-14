@@ -9,7 +9,7 @@
 - API documentation to create a check run: https://developer.github.com/v3/checks/runs/#create-a-check-run
 - API documentation for getting a single file: https://developer.github.com/v3/repos/contents/#get-contents
 - Page where you can view and re-deliver webhooks: https://github.com/settings/apps/your-app-name/advanced
-- Documentation for the Node GitHub SDK: https://octokit.github.io/rest.js/
+- Documentation for the Node,js GitHub SDK: https://octokit.github.io/rest.js/
 
 Follow along live: (URL to come)
 
