@@ -29,7 +29,7 @@
 - Page where you can view and re-deliver webhooks: https://github.com/settings/apps/your-app-name/advanced
 - Documentation for the Node,js GitHub SDK: https://octokit.github.io/rest.js/
 
-Follow along live: (URL to come)
+Follow along live: https://glitch.com/edit/#!/accessible-emu
 
 ### Workshop steps
 1. Fork the [universeworkshops/license-checker-demo](https://github.com/universeworkshops/license-checker-demo) repo to your personal account
