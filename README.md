@@ -1,4 +1,22 @@
-# Getting started with the GitHub Checks API
+<p align="center">
+  <img width="150" src="https://probot.github.io/assets/logo.png">
+</p>
+<h2 align="center">Getting started with the GitHub Checks API</h2>
+
+<p align="center">
+  <a href="#workshop-pre-requisites">Workshop Pre-requisites</a> •
+  <a href="#useful-links-throughout-the-workshop">Useful links</a> •
+  <a href="#workshop-steps">Workshop steps</a> •
+  <a href="#extend-and-improve-your-app-further">Extend your app further</a>
+</p>
+
+<p align="center">
+  <a href="https://glitch.com/edit/#!/remix/license-checker-start">
+    <img src="https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg" alt="Remix With Glitch">
+  </a>
+</p>
+
+---
 
 ### Workshop Pre-requisites
 
