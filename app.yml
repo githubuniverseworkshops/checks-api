@@ -1,0 +1,7 @@
+public: false
+default_events:
+- check_suite
+- check_run
+default_permissions:
+  checks: write
+  contents: write
